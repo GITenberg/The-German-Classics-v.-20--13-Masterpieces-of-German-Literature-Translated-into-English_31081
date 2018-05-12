@@ -1,0 +1,32 @@
+_repo: The-German-Classics-v.-20--13-Masterpieces-of-German-Literature-Translated-into-English_31081
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Francke, Kuno
+    birthdate: 1855
+    deathdate: 1930
+    gutenberg_agent_id: '3853'
+    url: http://www.gutenberg.org/2009/agents/3853
+    wikipedia: http://en.wikipedia.org/wiki/Kuno_Francke
+description: ''
+gutenberg_issued: '2010-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31081'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German literature -- 20th century -- Translations into English'
+- !lcsh 'German literature -- 19th century -- Translations into English'
+- !lcc 'PT'
+tableOfContents: "Clarissa Mirabel.\r\nGod's Beloved.\r\nThe Contemporary German Drama.\
+  \ By Amelia von Ende\r\nMother Earth.\r\nThe Marriage of Sobeide.\r\nThe Green Cockatoo.\r\
+  \nLiterature.\r\nThe Court Singer.\r\nTristram the Jester."
+title: "The German Classics, v. 20\r\nMasterpieces of German Literature Translated\
+  \ into English"
+url: http://www.gutenberg.org/ebooks/31081
