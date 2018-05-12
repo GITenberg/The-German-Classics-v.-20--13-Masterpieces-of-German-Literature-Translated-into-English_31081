@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3853
     wikipedia: http://en.wikipedia.org/wiki/Kuno_Francke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31081#The-German-Classics-v.-20--13-Masterpieces-of-German-Literature-Translated-into-English
 gutenberg_issued: '2010-01-25'
 gutenberg_type: Text
 identifiers:
